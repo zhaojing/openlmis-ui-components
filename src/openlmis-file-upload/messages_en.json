@@ -1,5 +1,5 @@
 {
-    "openlmisFileUpload.selectFile": "Select File",
-    "openlmisFileUpload.wrongFileExtension": "The selected file has wrong extension",
-    "openlmisFileUpload.fileEmpty": "Selected file is empty"
+    "openlmisFileUpload.selectFile": "选择文件",
+    "openlmisFileUpload.wrongFileExtension": "所选文件的扩展名错误",
+    "openlmisFileUpload.fileEmpty": "所选文件为空"
 }

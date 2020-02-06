@@ -1,13 +1,13 @@
 {
-    "openlmisAdjustments.add": "Add",
-    "openlmisAdjustments.adjustments":"Adjustments",
-    "openlmisAdjustments.cancel": "Cancel",
-    "openlmisAdjustments.noAdjustments": "There are no adjustments",
-    "openlmisAdjustments.quantity": "Quantity",
-    "openlmisAdjustments.reason": "Reason",
-    "openlmisAdjustments.remove": "Remove",
-    "openlmisAdjustments.total": "Total",
-    "openlmisAdjustments.update": "Update",
-    "openlmisAdjustments.actions": "Actions",
-    "openlmisAdjustments.close": "Close"
+    "openlmisAdjustments.add": "添加",
+    "openlmisAdjustments.adjustments": "调整",
+    "openlmisAdjustments.cancel": "取消",
+    "openlmisAdjustments.noAdjustments": "未找到调整",
+    "openlmisAdjustments.quantity": "数量",
+    "openlmisAdjustments.reason": "原因",
+    "openlmisAdjustments.remove": "删除",
+    "openlmisAdjustments.total": "总共",
+    "openlmisAdjustments.update": "更新",
+    "openlmisAdjustments.actions": "操作",
+    "openlmisAdjustments.close": "关闭"
 }

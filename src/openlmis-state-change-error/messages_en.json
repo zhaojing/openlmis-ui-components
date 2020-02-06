@@ -1,4 +1,4 @@
 {
-    "openlmisStateChangeError.internalApplicationError.message": "Please check console logs for more information.",
-    "openlmisStateChangeError.internalApplicationError.title": "Internal application error"
+    "openlmisStateChangeError.internalApplicationError.message": "请检查控制台日志以获取更多信息。",
+    "openlmisStateChangeError.internalApplicationError.title": "内部应用程序错误"
 }

@@ -1,7 +1,7 @@
 {
-    "openlmisAppCache.softwareLastUpdatedOn": "Software last updated on ",
-    "openlmisAppCache.cacheUpdate.title": "Update Available",
-    "openlmisAppCache.cacheUpdate.message": "Update this software will:\n* Delete all local data\n* Require you to login after updating",
-    "openlmisAppCache.cacheUpdate.label": "Update Now",
-    "openlmisAppCache.cacheUpdate.cancel": "Update on Logout"
+    "openlmisAppCache.softwareLastUpdatedOn": "软件上次更新于",
+    "openlmisAppCache.cacheUpdate.title": "有可用更新",
+    "openlmisAppCache.cacheUpdate.message": "更新此软件将：\n *删除所有本地数据\n * 并且需要您重新登录",
+    "openlmisAppCache.cacheUpdate.label": "立即更新",
+    "openlmisAppCache.cacheUpdate.cancel": "登出后更新"
 }

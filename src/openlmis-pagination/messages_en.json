@@ -1,6 +1,6 @@
 {
-    "openlmisPagination.next": "Next",
-    "openlmisPagination.previous": "Previous",
-    "openlmisPagination.showingItemsOutOf": "Showing ${items} item(s) out of ${total} total",
-    "openlmisPagination.showingNoItems": "Showing no items"
+    "openlmisPagination.next": "下一个",
+    "openlmisPagination.previous": "上一个",
+    "openlmisPagination.showingItemsOutOf": "显示总计${total}条中的${items}条",
+    "openlmisPagination.showingNoItems": "无结果"
 }

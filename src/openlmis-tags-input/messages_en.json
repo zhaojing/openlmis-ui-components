@@ -1,4 +1,4 @@
 {
-    "openlmisTagsInput.nonExistingTag": "Entered text is not an existing tag",
-    "openlmisTagsInput.duplicatedTag": "This tag is already added"
+    "openlmisTagsInput.nonExistingTag": "输入的标签不存在",
+    "openlmisTagsInput.duplicatedTag": "此标签已添加"
 }
